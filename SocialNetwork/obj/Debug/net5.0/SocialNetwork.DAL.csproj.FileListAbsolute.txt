@@ -1,0 +1,15 @@
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.DAL.deps.json
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.DAL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\bin\Debug\net5.0\ref\SocialNetwork.DAL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.DAL.pdb
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.csproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.AssemblyInfo.cs
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\ref\SocialNetwork.DAL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.pdb
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.DAL.runtimeconfig.json
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\bin\Debug\net5.0\SocialNetwork.DAL.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork\obj\Debug\net5.0\SocialNetwork.DAL.genruntimeconfig.cache

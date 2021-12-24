@@ -1,0 +1,15 @@
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.BLL.deps.json
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.BLL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\bin\Debug\net5.0\ref\SocialNetwork.BLL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.BLL.pdb
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.DAL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\bin\Debug\net5.0\SocialNetwork.DAL.pdb
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.csproj.AssemblyReference.cache
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.AssemblyInfo.cs
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.csproj.CopyComplete
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\ref\SocialNetwork.BLL.dll
+C:\Users\Paul\Desktop\Файли по предметам\3 курс\1 семестр\.NET\SocialNetwork\SocialNetwork.BLL\obj\Debug\net5.0\SocialNetwork.BLL.pdb
